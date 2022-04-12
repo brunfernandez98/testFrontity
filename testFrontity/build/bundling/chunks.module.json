@@ -1,0 +1,75 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "c677a82e6787f0ae4c82",
+  "publicPath": "",
+  "outputPath": "C:\\Users\\brunf\\Desktop\\Proyectos\\proyectoFrontity\\testFrontity\\build\\static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "testfrontity": "testfrontity.module.js"
+  },
+  "assets": [
+    {
+      "name": "list.module.js",
+      "size": 55738,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "testfrontity.module.js",
+      "size": 6872332,
+      "chunks": [
+        "testfrontity"
+      ],
+      "chunkNames": [
+        "testfrontity"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "testfrontity": {
+      "chunks": [
+        "testfrontity"
+      ],
+      "assets": [
+        "testfrontity.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "list",
+      "files": [
+        "list.module.js"
+      ]
+    },
+    {
+      "id": "testfrontity",
+      "files": [
+        "testfrontity.module.js"
+      ]
+    }
+  ]
+}
